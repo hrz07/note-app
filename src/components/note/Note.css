@@ -3,3 +3,13 @@
     padding : 5px 10px;
     border-radius : 15px;
 }
+.note div{
+ width: 32%;
+}
+.note div i{
+    background: white;
+    padding: 10px;
+    border-radius: 30px;
+    margin-top: 5px;
+    cursor: pointer;
+}
